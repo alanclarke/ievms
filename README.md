@@ -1,4 +1,4 @@
-# ievms-cli
+# ievms
 Simple command line api wrapper for xdissent/ievms
 
 ## motivation
