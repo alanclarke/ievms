@@ -1,0 +1,42 @@
+{
+  "name": "ievms-cli",
+  "version": "1.0.0",
+  "description": "Simple command line api wrapper for xdissent/ievms",
+  "main": "lib/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "bin": {
+    "ievms": "./bin/index.js"
+  },
+  "keywords": [
+    "ievms"
+  ],
+  "author": "Alan Clarke <hi@alz.so> (alz.so)",
+  "license": "UNLICENSED",
+  "standard": {
+    "ignore": [
+      "node_modules"
+    ],
+    "globals": [
+      "describe",
+      "beforeEach",
+      "afterEach",
+      "before",
+      "after",
+      "it"
+    ]
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.0.1"
+  },
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "commander": "^2.9.0",
+    "node-fetch": "^1.6.0"
+  }
+}
