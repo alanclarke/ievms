@@ -39,5 +39,7 @@ Checking for VirtualBox
 Checking for Oracle VM VirtualBox Extension Pack
 Pack no. 0:   Oracle VM VirtualBox Extension Pack
 Building IE 10 VM
-...
+Checking for existing OVA at /Volumes/Transcend/ievms/IE6 - WinXP.ova
+Checking for existing IE8 - WinXP VM
+Done!
 ```
