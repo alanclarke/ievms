@@ -1,5 +1,5 @@
 # ievms
-Simple command line api wrapper for xdissent/ievms
+Simple command line api for xdissent/ievms
 
 ## motivation
 Makes the excellent https://github.com/xdissent/ievms project a bit easier to consume with a local help menu and simple command line options api
