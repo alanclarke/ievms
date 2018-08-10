@@ -4,6 +4,7 @@
   "description": "Simple command line api for xdissent/ievms",
   "main": "lib/index.js",
   "directories": {
+    "lib": "lib",
     "test": "test"
   },
   "scripts": {
@@ -15,7 +16,7 @@
   "keywords": [
     "ievms"
   ],
-  "author": "Alan Clarke <hi@alz.so> (alz.so)",
+  "author": "Alan Clarke <code@alz.io> (alz.io)",
   "license": "UNLICENSED",
   "standard": {
     "ignore": [
