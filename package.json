@@ -1,6 +1,6 @@
 {
   "name": "ievms",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Simple command line api for xdissent/ievms",
   "main": "lib/index.js",
   "directories": {
